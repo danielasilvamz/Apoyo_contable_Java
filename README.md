@@ -1,5 +1,7 @@
 # Apoyo_contable_Java
-El presente es el repositorio del simulador de un servicio de apoyo contable, creado en lenguaje Java
+El presente es el repositorio del simulador de un servicio de apoyo contable, creado en lenguaje Java:
+
+La carpeta src contiene los archivos .java (original) y .class (compilado)
 
 El siguiente programa desarrollado en lenguaje Java, trata de un simulador de un servicio de apoyo contable
 para el cálculo de operaciones matemáticas:
